@@ -6,14 +6,6 @@
 
 <?php include_once 'nav.php'; ?>
 
-<header class="masthead text-center text-white">
-    <div class="masthead-content">
-      <div class="container">
-        <h1 class="masthead-heading mb-0">NGO PORTAL</h1>
-      </div>
-</header>
-
-
 
 
 
