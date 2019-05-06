@@ -9,7 +9,7 @@
 
 
 <section>
-    <div class="container mt-3">
+    <div class="container mt-6">
       <div class="row align-items-center">
         <div class="col-lg-6 order-lg-2">
           <div class="p-5">
