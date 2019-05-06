@@ -13,9 +13,8 @@
         <!-- <h2 class="masthead-subheading mb-0">Know the best crop for your land</h2> -->
         <h2 class="masthead-subheading mb-0">SPREAD THE LOVE OF DONATION</h2>
         <a href="login.php" class="btn btn-primary btn-xl rounded-pill mt-5">LOGIN/SIGN UP</a>
-        
       </div>
- </header>
+</header>  
 
 <section>
     <div class="container">
@@ -28,7 +27,9 @@
         <div class="col-lg-6 order-lg-1">
           <div class="p-5">
             <h2 class="display-4">CHILD LABOUR UPLIFTMENT</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.
+<a href="child.php">..more</a>
+            </p>
           </div>
         </div>
       </div>
@@ -47,7 +48,9 @@
         <div class="col-lg-6">
           <div class="p-5">
             <h2 class="display-4">HUNGRY STOMACHS</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.
+<a href="hungry.php">..more</a>
+            </p>
           </div>
         </div>
       </div>

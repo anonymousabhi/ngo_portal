@@ -5,10 +5,7 @@
 <body>
 
 
-
 <?php include_once 'welcomenav.php'; ?>
-
-
 
 
 
