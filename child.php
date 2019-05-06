@@ -6,7 +6,9 @@
 
 <?php include_once 'nav.php'; ?>
 
-
+<div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/12.jpg" alt="">
+          </div>
 
 Child labour refers to the exploitation of children through any form of work that deprives children of their childhood, interferes with their ability to attend regular school, and is mentally, physically, socially or morally harmful.[3] Such exploitation is prohibited by legislation worldwide,[4][5] although these laws do not consider all work by children as child labour; exceptions include work by child artists, family duties, supervised training, and some forms of child work practiced by Amish children, as well as by Indigenous children in the Americas.
 
