@@ -43,7 +43,7 @@
 
     </form>
 
-    <p class="text--center">Not a member? <a href="#">This is admin login</a> <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/icons.svg#arrow-right"></use></svg></p>
+    <p class="text--center">Not a member? <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/icons.svg#arrow-right"></use></svg></p>
 
   </div>
 
