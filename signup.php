@@ -18,7 +18,7 @@
 <h5 align="center">SIGN UP<h5>
 <div class="grid">
 
-    <form action="action_page.php" method="POST" class="form login">
+    <form action="welcome.php" method="POST" class="form login">
 
       <div class="form__field">
         Full name
@@ -77,9 +77,12 @@
       </div>
       
       <div class="form__field">
-        <input type="reset" value="RESET">
+        <input type="submit" value="RESET">
       </div>  
+
+
     </form>
+
 
   </div>
 

@@ -111,7 +111,8 @@ input {
   transition: background-color 0.3s;
 }
 
-input[type='submit'] {
+input[type='submit'],
+input[type='reset'] {
   cursor: pointer;
 }
 
@@ -122,7 +123,8 @@ input[type='submit'] {
 
 .form input[type='password'],
 .form input[type='text'],
-.form input[type='submit'] {
+.form input[type='submit']
+.form input[type='reset'] {
   width: 100%;
 }
 
@@ -149,7 +151,8 @@ input[type='submit'] {
 .login label,
 .login input[type='text'],
 .login input[type='password'],
-.login input[type='submit'] {
+.login input[type='submit'] ,
+.login input[type='reset']{
   border-radius: 0.25rem;
   padding: 16px;
   padding: 1rem;
@@ -190,7 +193,10 @@ input[type='submit'] {
 .login input[type='submit']:hover {
   background-color: #d44179;
 }
-
+.login input[type='reset']:focus,
+.login input[type='reset']:hover {
+  background-color: #d44179;
+}
 /* modules/text.css */
 
 p {
@@ -203,3 +209,4 @@ p {
 .text--center {
   text-align: center;
 }
+
