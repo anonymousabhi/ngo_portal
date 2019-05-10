@@ -15,7 +15,7 @@
 <br>
 <br>
 
-
+<h5 align="center">SIGN UP<h5>
 <div class="grid">
 
     <form action="action_page.php" method="POST" class="form login">
@@ -24,6 +24,7 @@
         Full name
         <input id="full_name" type="text" name="name" class="form__input"  required>
       </div>
+
       <div class="form__field">
         City
         <input id="city" type="text" name="city" class="form__input"  required>
@@ -63,17 +64,22 @@
       
       <div class="form__field">
         Mobile number
-        <input id="mobile_no" type="number" name="mobile_no" class="form__input"  required>
+        <input id="mobile_no" type="text" name="mobile_no" class="form__input"  required>
       </div>
             
+      <div class="form__field">
+        E-mail
+        <input id="user_email" type="text" name="user_email" class="form__input"  required>
+      </div>
 
       <div class="form__field">
         <input type="submit" value="Sign In">
       </div>
-
+      
+      <div class="form__field">
+        <input type="reset" value="RESET">
+      </div>  
     </form>
-
-    <p class="text--center">Not a member? <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/icons.svg#arrow-right"></use></svg></p>
 
   </div>
 
