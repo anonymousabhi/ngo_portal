@@ -27,7 +27,7 @@
         <div class="col-lg-6 order-lg-1">
           <div class="p-5">
             <h2 class="display-4">CHILD LABOUR UPLIFTMENT</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.
+            <p>Child labour refers to the exploitation of children through any form of work that deprives children of their childhood, interferes with their ability to attend regular school, and is mentally, physically, socially or morally harmful. Such exploitation is prohibited by legislation worldwide,although these laws do not consider all work by children as child labour; exceptions include work by child artists, family duties, supervised training, and some forms of child work practiced by Amish children, as well as by Indigenous children in the Americas.
 <a href="child.php">..more</a>
             </p>
           </div>
@@ -48,7 +48,7 @@
         <div class="col-lg-6">
           <div class="p-5">
             <h2 class="display-4">HUNGRY STOMACHS</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.
+            <p>Food for the Hungry (also known as FH) is a Christian international relief, development, and advocacy organization with operations in more than 20 countries. Food for the Hungry was founded in 1971 by Dr. Larry Ward. Food for the Hungry's stated mission for long-term development is to graduate communities of extreme poverty within 10-15 years. The organization does this by going to some of the hardest places with an exit strategy, empowering local leaders and walking "together" with them, as they lead their communities into being thriving, self-sustainable places to live. The organization also works in disaster relief and humanitarian response, including working with the Rohingya refugees in Bangladesh and Syrian refugees in Lebanon.
 <a href="hungry.php">..more</a>
             </p>
           </div>

@@ -11,7 +11,7 @@
                 <a class="nav-link lite" href="#"></a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">FIND NEARBY DONATION CENTERS</a>
+            <a class="nav-link" href="#">HELP</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link lite" href="#">         </a>

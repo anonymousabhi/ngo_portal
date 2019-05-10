@@ -21,14 +21,51 @@
     <form action="action_page.php" method="POST" class="form login">
 
       <div class="form__field">
-        <label for="login__username" ><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#user"></use></svg><span class="hidden">Username</span></label>
-        <input id="login__username" type="text" name="email" class="form__input" placeholder="Username" required>
+        Full name
+        <input id="full_name" type="text" name="name" class="form__input"  required>
+      </div>
+      <div class="form__field">
+        City
+        <input id="city" type="text" name="city" class="form__input"  required>
+      </div>
+      <div class="form__field">
+        State
+        <input id="state" type="text" name="state" class="form__input"  required>
+      </div><div class="form__field">
+        Occupation
+        <input id="occupation" type="text" name="occupation" class="form__input"  required>
+      </div>
+      
+      Are you a memeber of any NGO:
+      <div>
+      YES<div class="form__field" align="left">
+        <input id="radio_yes" type="radio" name="yes" class="form__input"  required>
+      </div>
+      
+      NO<div class="form__field" align="right">
+        <input id="radio_no" type="radio" name="no" class="form__input"  required>
+      </div>
       </div>
 
-      <div class="form__field">
-        <label for="login__password"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#lock"></use></svg><span class="hidden">Password</span></label>
-        <input id="login__password" type="password" name="password" class="form__input" placeholder="Password" required>
+      Have you previously donated to any NGO:
+      <div>
+      NO<div class="form__field" align="left">
+        <input id="d_no" type="radio" name="d_no" class="form__input"  required>
       </div>
+      
+      YES<div class="form__field" align="right">
+        <input id="d_yes" type="radio" name="d_no" class="form__input"  required>
+      </div>
+      <textarea rows = "5"  name = "description" class="form__input">
+            Specify
+         </textarea>
+      </div>
+      
+      <div class="form__field">
+        Mobile number
+        <input id="mobile_no" type="number" name="mobile_no" class="form__input"  required>
+      </div>
+            
 
       <div class="form__field">
         <input type="submit" value="Sign In">
