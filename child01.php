@@ -15,7 +15,7 @@
  	  
 
 
-      <p>The Save the Children Fund,[2] commonly known as Save the Children was established in the United Kingdom in 1919 in order to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts.
+      <p>The Save the Children Fund, commonly known as Save the Children was established in the United Kingdom in 1919 in order to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts.
 </p><p>
 In addition to the UK organisation, there are 29 other national Save the Children organisations who are members of the Save the Children Alliance, a global network of nonprofit organisations supporting local partners and Save the Children International in more than 120 countries around the world. Further, Save the Children has been involved in other initiatives through partners such as Bernard Arnault Africa Relief (BAAR International), which has operations in various parts of Kenya such as Elgeyo Marakwet, Kajiado, Homa Bay, Narok, Makueni and Machakos, as well as Southern Sudan.
 </p><p>
