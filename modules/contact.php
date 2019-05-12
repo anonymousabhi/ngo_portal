@@ -46,7 +46,7 @@
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Help</a>
+                    <a class="nav-link" href="#">Contact Us</a>
                 </li>
 
                 <li class="nav-item">
@@ -95,9 +95,22 @@
         <div class="container">
             <h1 class="contact_header">Contact Us</h1>
 
-
+            <h4>This is the Official Portal of the NGO , developed and hosted by TEAM ENDGAME.<br>
+            Email:-     ngo.details@gmail.com<br>
+            Mobile:-    +918294568710 / +918546875321</h4>
+            <br>
+            <h4>
+            You can find us physically at:-<br>
+            4B - A.K. Apartment , Gora Bazar <br>
+            Near Central Jail Ground , Dum dum.<br>
+            700015    
+            </h4>
+            
         </div>
 </header>
+
+
+ 
 
 
 <!--Footer-->
