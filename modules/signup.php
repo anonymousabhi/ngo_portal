@@ -94,7 +94,7 @@
     <header class="masthead text-center text-white " id="signup-body">
         <div class="masthead-content">
             <div class="container">
-                <form action="welcome.php" method="POST" class="signup_form">
+                <form action="../api/sign_up/register.php" method="POST" class="signup_form">
                     <h1 class="signup_header">Sign Up</h1>
 
                     <div class="form__field row">
@@ -103,11 +103,18 @@
                     </div>
 
                     <div class="form__field row">
-                        <div class="col col-md-6">Address</div>
-<!--                        <input id="state" type="text" name="state" class="col col-md-4 form__input"  required>-->
+                        <div class="col col-md-6">Gender</div>
+                        <select id ="gender" name="gender" class="col col-md-4" required>
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                        </select>
+                    </div>
 
-                        <select onchange="print_city('state', this.selectedIndex);" id="sts" name ="stt" class="col col-md-2 form-control" required></select>
-                        <select id ="state" class="col col-md-2 form-control" required></select>
+                    <div class="form__field row">
+                        <div class="col col-md-6">Address</div>
+
+                        <select onchange="print_city('state', this.selectedIndex);" id="sts" name ="state" class="col col-md-2 form-control" required></select>
+                        <select id ="state" name="city" class="col col-md-2 form-control" required></select>
 
                     </div>
 
@@ -118,12 +125,17 @@
 
                     <div class="form__field row">
                         <div class="col col-md-6">Mobile number</div>
-                        <input id="mobile_no" type="tel" name="mobile_no" class="col col-md-4 form__input"  placeholder="" pattern="[0-9]{10}" maxlength="10" oninvalid="setCustomValidity('Please enter a valid 10 digit mobile number.')" oninput="setCustomValidity('')"  required>
+                        <input id="mobile_no" type="tel" name="mobile" class="col col-md-4 form__input"  placeholder="" pattern="[0-9]{10}" maxlength="10" oninvalid="setCustomValidity('Please enter a valid 10 digit mobile number.')" oninput="setCustomValidity('')"  required>
                     </div>
 
                     <div class="form__field row">
                         <div class="col col-md-6">E-mail</div>
-                        <input id="user_email" type="email" name="user_email" class="col col-md-4 form__input"  required>
+                        <input id="user_email" type="email" name="email" class="col col-md-4 form__input"  required>
+                    </div>
+
+                    <div class="form__field row">
+                        <div class="col col-md-6">Create Password</div>
+                        <input id="password" type="password" name="password" class="col col-md-4 form__input"  required>
                     </div>
 
                     <div class="form__field row">
