@@ -22,7 +22,7 @@
             <h2 class="display-4">CHILD LABOUR UPLIFTMENT</h2>
             <p>Child labour refers to the exploitation of children through any form of work that deprives children of their childhood, interferes with their ability to attend regular school, and is mentally, physically, socially or morally harmful. Such exploitation is prohibited by legislation worldwide,although these laws do not consider all work by children as child labour; exceptions include work by child artists, family duties, supervised training, and some forms of child work practiced by Amish children, as well as by Indigenous children in the Americas.
               Some of the Child NGO's are:-<br>
-              <a href="ngo01.php">ABC of KOLKATA</a><br>
+              <a href="child01.php">ABC of KOLKATA</a><br>
               <a href="#">xyz</a><br>
               <a href="#">abcd</a><br>
               <a href="#">India Liited</a><br>
