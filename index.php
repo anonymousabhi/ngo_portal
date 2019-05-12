@@ -103,7 +103,7 @@
         </div>
         <div class="col-lg-6 order-lg-1">
           <div class="p-5">
-            <h2 class="display-4">HEALTH </h2>
+            <h2 class="display-4">HEALTHCARE </h2>
             <p>Health-related NGOs also provide capacity development in areas of need; that is, helping nations develop sustainable domestic health solutions through training programs. An example of this type of aid is the Center for International Rehabilitation, which has provided rehabilitation training for Iraqi physical therapists, physicians, and rehabilitation clinic managers in Tuzla, Bosnia and Amman, Jordan. These trainees then care for amputees, spinal and head injury patients in their home country.<a href="health.php">..more</a></p>
           </div>
         </div>
