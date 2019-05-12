@@ -1,6 +1,6 @@
 <html>
 <head>
-<?php include_once 'head.php'; ?>
+    <?php include_once 'head.php'; ?>
 </head>
 <body>
 
@@ -12,7 +12,7 @@
         <h1 class="masthead-heading mb-0">NGO PORTAL</h1>
         <!-- <h2 class="masthead-subheading mb-0">Know the best crop for your land</h2> -->
         <h2 class="masthead-subheading mb-0">SPREAD THE LOVE OF DONATION</h2>
-        <a href="login.php" class="btn btn-primary btn-xl rounded-pill mt-5">LOGIN/SIGN UP</a>
+        <a href="login.php" class="btn btn-primary btn-xl rounded-pill mt-5">Sign Up</a>
       </div>
 </header>  
 
