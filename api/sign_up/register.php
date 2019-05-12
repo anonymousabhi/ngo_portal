@@ -37,6 +37,9 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
                     $_POST['donated']==="yes"?1:0);
 
                 if($result==1){
+
+                    header('Location: ../../index.php', true);
+
                     $response['message']="User Registered";
                 }else if($result==2){
                     $response['error']=true;

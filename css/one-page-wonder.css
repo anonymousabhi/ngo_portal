@@ -12,6 +12,8 @@ h6 {
   font-weight: 800 !important;
 }
 
+
+
 .btn-xl {
   text-transform: uppercase;
   padding: 1.5rem 3rem;
@@ -164,4 +166,12 @@ header.masthead .bg-circle-4 {
 .btn-secondary:focus {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+}
+
+.ngo_card {
+  border-radius: 10px;
+}
+
+.ngo_card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }

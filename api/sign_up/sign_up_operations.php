@@ -18,7 +18,7 @@ class sign_up_operations{
 
             $query = "INSERT INTO `user`(`id`, `email`, `password`, `name`, `gender`, `city`, `state`, `occupation`, `is_member`, `has_donated`, `mobile`) 
                       VALUES(NULL, '$email','$password','$name','$gender','$city','$state','$occupation','$isMember','$donated','$mobile')";
-            
+
             $run=mysqli_query($this->con, $query);
             if($run==true){
                 return 1;

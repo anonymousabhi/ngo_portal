@@ -51,7 +51,7 @@
               <div class="p-5">
                 <h2 class="display-4">CHILD LABOUR UPLIFTMENT</h2>
                 <p>Child labour refers to the exploitation of children through any form of work that deprives children of their childhood, interferes with their ability to attend regular school, and is mentally, physically, socially or morally harmful. Such exploitation is prohibited by legislation worldwide,although these laws do not consider all work by children as child labour; exceptions include work by child artists, family duties, supervised training, and some forms of child work practiced by Amish children, as well as by Indigenous children in the Americas.
-    <a href="child.php">..more</a>
+<!--                    <a href="child.php">..more</a>-->
                 </p>
               </div>
             </div>
@@ -71,7 +71,7 @@
               <div class="p-5">
                 <h2 class="display-4">HUNGRY STOMACHS</h2>
                 <p>Food for the Hungry (also known as FH) is a Christian international relief, development, and advocacy organization with operations in more than 20 countries. Food for the Hungry was founded in 1971 by Dr. Larry Ward. Food for the Hungry's stated mission for long-term development is to graduate communities of extreme poverty within 10-15 years. The organization does this by going to some of the hardest places with an exit strategy, empowering local leaders and walking "together" with them, as they lead their communities into being thriving, self-sustainable places to live. The organization also works in disaster relief and humanitarian response, including working with the Rohingya refugees in Bangladesh and Syrian refugees in Lebanon.
-    <a href="hungry.php">..more</a>
+<!--                     <a href="hungry.php">..more</a>-->
                 </p>
               </div>
             </div>
@@ -90,7 +90,8 @@
             <div class="col-lg-6 order-lg-1">
               <div class="p-5">
                 <h2 class="display-4">EDUCATION </h2>
-                <p>An article published in The Nation (Pakistan newspaper) on July 2, 2018 described education as crucial to the development of all individuals. Education nurtures a person’s way of thinking, inculcates values, and teaches skills needed to succeed in life. At the same time, it helps boost the social, economic, and political progress of nations. It said governments that establish an efficient education system reaps benefits in the long-term.<a href="education.php">..more</a></p>
+                <p>An article published in The Nation (Pakistan newspaper) on July 2, 2018 described education as crucial to the development of all individuals. Education nurtures a person’s way of thinking, inculcates values, and teaches skills needed to succeed in life. At the same time, it helps boost the social, economic, and political progress of nations. It said governments that establish an efficient education system reaps benefits in the long-term.
+<!--                    <a href="education.php">..more</a></p>-->
               </div>
             </div>
           </div>
@@ -108,7 +109,8 @@
             <div class="col-lg-6">
               <div class="p-5">
                 <h2 class="display-4">WOMEN EMPOWERMENT</h2>
-                <p>Women's empowerment is the process in which women elaborate and recreate what it is that they can be, do, and accomplish in a circumstance that they previously were denied.  Empowerment can be defined in many ways, however, when talking about women's empowerment, empowerment means accepting and allowing people (women) who are on the outside of the decision-making process into it. “This puts a strong emphasis on participation in political structures and formal decision-making and, in the economic sphere, on the ability to obtain an income that enables participation in economic decision-making.”<a href="women.php">..more</a></p>
+                <p>Women's empowerment is the process in which women elaborate and recreate what it is that they can be, do, and accomplish in a circumstance that they previously were denied.  Empowerment can be defined in many ways, however, when talking about women's empowerment, empowerment means accepting and allowing people (women) who are on the outside of the decision-making process into it. “This puts a strong emphasis on participation in political structures and formal decision-making and, in the economic sphere, on the ability to obtain an income that enables participation in economic decision-making.”
+<!--                    <a href="women.php">..more</a></p>-->
               </div>
             </div>
           </div>
@@ -126,7 +128,8 @@
             <div class="col-lg-6 order-lg-1">
               <div class="p-5">
                 <h2 class="display-4">HEALTHCARE </h2>
-                <p>Health-related NGOs also provide capacity development in areas of need; that is, helping nations develop sustainable domestic health solutions through training programs. An example of this type of aid is the Center for International Rehabilitation, which has provided rehabilitation training for Iraqi physical therapists, physicians, and rehabilitation clinic managers in Tuzla, Bosnia and Amman, Jordan. These trainees then care for amputees, spinal and head injury patients in their home country.<a href="health.php">..more</a></p>
+                <p>Health-related NGOs also provide capacity development in areas of need; that is, helping nations develop sustainable domestic health solutions through training programs. An example of this type of aid is the Center for International Rehabilitation, which has provided rehabilitation training for Iraqi physical therapists, physicians, and rehabilitation clinic managers in Tuzla, Bosnia and Amman, Jordan. These trainees then care for amputees, spinal and head injury patients in their home country.
+<!--                    <a href="health.php">..more</a></p>-->
               </div>
             </div>
           </div>
@@ -137,5 +140,19 @@
   <?php include_once __DIR__.'/parts/footer.php' ; ?>
 
 <body>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/5cd8660bd07d7e0c63932f74/default';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
 
 </html>
