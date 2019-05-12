@@ -6,3 +6,27 @@
     margin-top: 6rem;
 }
 
+.nav-link {
+    color:white;
+}
+
+#signup-body {
+    background: white;
+    margin-top: -7%;
+}
+
+.signup_form {
+    color: black;
+}
+
+.form__field{
+    margin-bottom: 1rem;
+}
+
+.signup_header{
+    margin-bottom: 3rem;
+}
+
+.contact_header {
+    color: black
+}
