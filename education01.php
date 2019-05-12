@@ -10,14 +10,12 @@
       	<br>
       	<br>
       	<br>
-        <h1 class="masthead-heading mb-0">FOOD FOR THE HUNGRY</h1>
+        <h1 class="masthead-heading mb-0">PRATHAM</h1>
       </div>
  	  
+      <p>Pratham is one of the largest non-governmental organisations in India.It was co-founded by Madhav Chavan and Farida Lambay . It works towards the provision of quality education to the underprivileged children in India. Established in Mumbai in 1994 to provide pre-school education to children in slums, Pratham today has interventions spread across 23 states and union territories of India and has supporting chapters in the United States, UK, Germany, and Sweden.
 
-
-      <p>Food for the Hungry (also known as FH) is a Christian international relief, development, and advocacy organization with operations in more than 20 countries. Food for the Hungry was founded in 1971 by Dr. Larry Ward.Food for the Hungry's stated mission for long-term development is to graduate communities of extreme poverty within 10-15 years. The organization does this by going to some of the hardest places with an exit strategy, empowering local leaders and walking "together" with them, as they lead their communities into being thriving, self-sustainable places to live. The organization also works in disaster relief and humanitarian response, including working with the Rohingya refugees in Bangladesh and Syrian refugees in Lebanon.
-
-The organization's name "Food for the Hungry" was taken from Book of Psalms 146:7: "He upholds the cause of the oppressed and gives food to the hungry." Food for the Hungry is a charter member of the Evangelical Council for Financial Accountability, since February 1, 1980.</p>
+Pratham’s founder and Ex-CEO, Madhav Chavan, was the 2011 recipient of the Skoll Award for Social Entrepreneurship. In addition, Pratham received the 2013 BBVA Foundation Frontiers of Knowledge Award in Development Cooperation, as a result of successfully catering to the learning needs of tens of millions of disadvantaged children for over twenty years. In doing so, it has designed and implemented new methods that accelerate reading acquisition, using a grassroots approach in which pupils are grouped by actual levels and needs instead of age, while providing specific training to the teachers and volunteers recruited to its programs.</p>
 
 <table>
 <tr>
