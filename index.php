@@ -68,7 +68,7 @@
         <div class="col-lg-6 order-lg-1">
           <div class="p-5">
             <h2 class="display-4">EDUCATION </h2>
-            <p>An article published in The Nation (Pakistan newspaper) on July 2, 2018 described education as crucial to the development of all individuals. Education nurtures a person’s way of thinking, inculcates values, and teaches skills needed to succeed in life. At the same time, it helps boost the social, economic, and political progress of nations. It said governments that establish an efficient education system reaps benefits in the long-term.</p>
+            <p>An article published in The Nation (Pakistan newspaper) on July 2, 2018 described education as crucial to the development of all individuals. Education nurtures a person’s way of thinking, inculcates values, and teaches skills needed to succeed in life. At the same time, it helps boost the social, economic, and political progress of nations. It said governments that establish an efficient education system reaps benefits in the long-term.<a href="education.php">..more</a></p>
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
         <div class="col-lg-6">
           <div class="p-5">
             <h2 class="display-4">WOMEN EMPOWERMENT</h2>
-            <p>Women's empowerment is the process in which women elaborate and recreate what it is that they can be, do, and accomplish in a circumstance that they previously were denied.  Empowerment can be defined in many ways, however, when talking about women's empowerment, empowerment means accepting and allowing people (women) who are on the outside of the decision-making process into it. “This puts a strong emphasis on participation in political structures and formal decision-making and, in the economic sphere, on the ability to obtain an income that enables participation in economic decision-making.”</p>
+            <p>Women's empowerment is the process in which women elaborate and recreate what it is that they can be, do, and accomplish in a circumstance that they previously were denied.  Empowerment can be defined in many ways, however, when talking about women's empowerment, empowerment means accepting and allowing people (women) who are on the outside of the decision-making process into it. “This puts a strong emphasis on participation in political structures and formal decision-making and, in the economic sphere, on the ability to obtain an income that enables participation in economic decision-making.”<a href="women.php">..more</a></p>
           </div>
         </div>
       </div>
@@ -104,15 +104,14 @@
         <div class="col-lg-6 order-lg-1">
           <div class="p-5">
             <h2 class="display-4">HEALTH </h2>
-            <p>Health-related NGOs also provide capacity development in areas of need; that is, helping nations develop sustainable domestic health solutions through training programs. An example of this type of aid is the Center for International Rehabilitation, which has provided rehabilitation training for Iraqi physical therapists, physicians, and rehabilitation clinic managers in Tuzla, Bosnia and Amman, Jordan. These trainees then care for amputees, spinal and head injury patients in their home country.</p>
+            <p>Health-related NGOs also provide capacity development in areas of need; that is, helping nations develop sustainable domestic health solutions through training programs. An example of this type of aid is the Center for International Rehabilitation, which has provided rehabilitation training for Iraqi physical therapists, physicians, and rehabilitation clinic managers in Tuzla, Bosnia and Amman, Jordan. These trainees then care for amputees, spinal and head injury patients in their home country.<a href="health.php">..more</a></p>
           </div>
         </div>
       </div>
     </div>
   </section> 
 
-
-  <!-- Footer -->
+   <!-- Footer -->
   <?php include_once 'footer.php' ; ?>
 
 <body>
