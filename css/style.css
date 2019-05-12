@@ -12,7 +12,9 @@
 
 #signup-body {
     background: white;
-    margin-top: -7%;
+    /*margin-top: -7%;*/
+    padding-top: 9rem;
+    padding-bottom: 0rem;
 }
 
 .signup_form {
@@ -29,4 +31,18 @@
 
 .contact_header {
     color: black
+}
+
+.form-submission {
+    margin: 3rem auto;
+}
+
+.social-icons{
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.icons {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
