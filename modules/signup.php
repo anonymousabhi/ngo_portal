@@ -13,6 +13,7 @@
 <!--     Custom fonts for this template-->
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 <!--     Custom styles for this template-->
     <link href="../css/one-page-wonder.css" rel="stylesheet">
@@ -129,11 +130,11 @@
                         <div class="col col-md-6">Are you a memeber of any NGO:</div>
                         <div class="col col-md-2">
                             Yes
-                            <input id="isMemberYes" type="radio" name="yes" class="form__input"  required>
+                            <input type="radio" name="isMember" value="yes"   required>
                         </div>
                         <div class="col col-md-2">
                             No
-                            <input id="isMemberNo" type="radio" name="no" class="form__input"  required>
+                            <input type="radio" name="isMember" value="no"   required>
                         </div>
 
                     </div>
@@ -142,22 +143,19 @@
                         <div class="col col-md-6">Have you previously donated to any NGO:</div>
                         <div class="col col-md-2">
                             Yes
-                            <input id="donatedYes" type="radio" name="yes" class="form__input"  required>
+                            <input  type="radio" name="donated" value="yes"   required>
                         </div>
                         <div class="col col-md-2">
                             No
-                            <input id="donatedNo" type="radio" name="no" class="form__input"  required>
+                            <input  type="radio" name="donated" value="no"   required>
                         </div>
 
                     </div>
 
                     <div class="row">
-                        <div class="col col-md-5">
+                        <div class="form-submission">
                             <input class="btn btn-primary" type="submit" value="Submit">
                             <input class="btn btn-primary" type="reset" value="Reset">
-                        </div>
-                        <div class="col col-md-5">
-
                         </div>
 
                     </div>
