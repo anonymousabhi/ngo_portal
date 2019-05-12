@@ -20,8 +20,8 @@
           <div class="p-5">
             <br>
             <h2 class="display-4">EDUCATION FOR ALL</h2>
-            <p>Child labour refers to the exploitation of children through any form of work that deprives children of their childhood, interferes with their ability to attend regular school, and is mentally, physically, socially or morally harmful. Such exploitation is prohibited by legislation worldwide,although these laws do not consider all work by children as child labour; exceptions include work by child artists, family duties, supervised training, and some forms of child work practiced by Amish children, as well as by Indigenous children in the Americas.
-              Some of the Child NGO's are:-<br>
+            <p>The UNESCO stated “education for sustainable development is a broad task that calls for the full involvement of multiple educational organizations and groups in bureaucracies and civil societies. These include Non-Governmental Organizations or NGOs.
+The language of education used by nation-states as well as international, intergovernmental organizations, non-governmental organizations, also known as NGOs, (both transnational and national), and agents of civil society (many of which belong to the aforementioned categories) contributes heavily to the self-identification of individuals. NGOs, can be defined as "formal organizations, and as such, they emerge when a group of people organize themselves into a social unit “that was established with the explicit objective of achieving certain ends and formulating rules to govern the relations among the members of the organization and the duties of each member” (Blau and Scott, 1970)".Some of the education NGO's are:<br>
               <a href="ngo01.php">ABC of KOLKATA</a><br>
               <a href="#">xyz</a><br>
               <a href="#">abcd</a><br>
