@@ -68,7 +68,7 @@
         <div class="col-lg-6 order-lg-1">
           <div class="p-5">
             <h2 class="display-4">EDUCATION </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+            <p>An article published in The Nation (Pakistan newspaper) on July 2, 2018 described education as crucial to the development of all individuals. Education nurtures a person’s way of thinking, inculcates values, and teaches skills needed to succeed in life. At the same time, it helps boost the social, economic, and political progress of nations. It said governments that establish an efficient education system reaps benefits in the long-term.</p>
           </div>
         </div>
       </div>
