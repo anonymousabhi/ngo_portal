@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 12, 2019 at 04:20 AM
+-- Generation Time: May 12, 2019 at 12:50 PM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 7.3.2
 
@@ -21,8 +21,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `ngo_portal`
 --
-CREATE DATABASE IF NOT EXISTS `ngo_portal` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `ngo_portal`;
 
 -- --------------------------------------------------------
 
@@ -66,7 +64,13 @@ CREATE TABLE `user` (
   `email` varchar(500) NOT NULL,
   `password` varchar(500) NOT NULL,
   `name` varchar(100) NOT NULL,
-  `gender` enum('male','female') NOT NULL
+  `gender` enum('male','female') NOT NULL,
+  `city` varchar(100) NOT NULL,
+  `state` varchar(100) NOT NULL,
+  `occupation` varchar(100) NOT NULL,
+  `is_member` tinyint(1) DEFAULT NULL,
+  `has_donated` tinyint(1) NOT NULL,
+  `mobile` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
