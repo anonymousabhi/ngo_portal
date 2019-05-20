@@ -13,6 +13,7 @@
     <!--     Custom fonts for this template-->
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
     <!--     Custom styles for this template-->
     <link href="../css/one-page-wonder.css" rel="stylesheet">
@@ -90,23 +91,23 @@
     </div>
 </nav>
 
-<header class="masthead text-center text-white " id="signup-body">
+<header class="masthead text-center  " id="signup-body">
     <div class="masthead-content">
         <div class="container">
             <h1 class="contact_header">Contact Us</h1>
 
-            <h4 style="color:black;">This is the Official Portal of the NGO , developed and hosted by TEAM ENDGAME.<br>
-            Email:-     ngo.details@gmail.com<br>
-            Mobile:-    +918294568710 / +918546875321</h4>
-            <br>
+            <div class="contact_us">
+                <i class="icons fas fa-envelope" href="#"></i>
+                <i class="icons fab fa-facebook"></i>
+                <i class="icons fab fa-twitter"></i>
+                <i class="icons fab fa-instagram"></i>
+                <i class="icons fab fa-youtube"></i>
+            </div>
 
 
-            <h4 style="color:black;">
-            You can find us physically at:-<br>
-            4B - A.K. Apartment , Gora Bazar <br>
-            Near Central Jail Ground , Dum dum.<br>
-            700015    
-            </h4>
+            <div class="location-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.125133176886!2d88.43158931443405!3d22.574422738593878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0275bb4df8a60d%3A0x905231d91b918a3!2sInstitute+of+Engineering+%26+Management!5e0!3m2!1sen!2sin!4v1557687733523!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
             
         </div>
 </header>

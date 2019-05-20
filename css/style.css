@@ -54,3 +54,11 @@
 .ngo_card:hover {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
+
+.location-map {
+    margin-bottom: 3rem;
+}
+
+.contact_us {
+    margin-bottom: 1rem;
+}

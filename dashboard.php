@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.css">
 
     <!--     Custom styles for this template-->
     <link href="css/one-page-wonder.css" rel="stylesheet">
@@ -24,6 +24,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.js"></script>
 
 
     <!--Custom JS-->
@@ -99,7 +100,7 @@ include 'api/fetch_ngo/get_ngo_script.php'; ?>
                                     <input type="hidden" name="ngo_id" value="<?php echo $value['ngo_id']; ?>">
                                     <input type="hidden" name="date" value="<?php $date = new DateTime();
                                     echo $date->format('Y-m-d H:i:s'); ?>">
-                                    <input type="text" class="form-control" name="amount" aria-label="Dollar amount (with dot and two decimal places)">
+                                    <input type="number" class="form-control" name="amount" aria-label="Dollar amount (with dot and two decimal places)" min="1" required>
                                     <div class="input-group-append">
                                         <span class="input-group-text">₹</span>
                                         <input type="submit" class="btn btn-primary" value="Donate" >
@@ -124,7 +125,15 @@ include 'api/fetch_ngo/get_ngo_script.php'; ?>
 <!--Footer-->
 <?php include_once 'parts/footer.php' ; ?>
 <body>
+<script>
+    iziToast.success({
+        title: 'Hey!',
+        message: 'User Successfully logged in'
+    });
 
+
+
+</script>
 
 
 </html>
